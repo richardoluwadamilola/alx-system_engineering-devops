@@ -15,3 +15,4 @@ create a symbolic link
 copy html files
 movings files that begins with uppercase
 clean emacs
+tree
