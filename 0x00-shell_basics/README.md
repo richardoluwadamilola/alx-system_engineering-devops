@@ -1,4 +1,5 @@
-prints the absolute path name of current working directory
-display a list of the contents of the current directory
-it is used to change the working directory to user directory
-displays current directory contents in long formats
+pwd-prints the absolute path name of current working directory
+ls-display a list of the contents of the current directory
+cd~-it is used to change the working directory to user directory
+ls -l-displays current directory contents in long formats
+ls -la -displays current directory contents including hidden files
