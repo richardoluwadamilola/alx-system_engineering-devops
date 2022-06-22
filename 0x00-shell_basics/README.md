@@ -3,3 +3,4 @@ ls-display a list of the contents of the current directory
 cd~-it is used to change the working directory to user directory
 ls -l-displays current directory contents in long formats
 ls -la -displays current directory contents including hidden files
+ls -lan -displays in long format, numerical and hidden files
