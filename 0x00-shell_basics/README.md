@@ -17,3 +17,4 @@ movings files that begins with uppercase
 clean emacs
 tree
 commas
+file type: School
