@@ -7,3 +7,4 @@ ls -lan -displays in long format, numerical and hidden files
 mkdir- making a directory in /tmp
 mv-moving from one directory to another
 rm- deleting from a directory
+rmdir- deleting a directory
