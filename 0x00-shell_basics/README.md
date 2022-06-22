@@ -9,3 +9,4 @@ mv-moving from one directory to another
 rm- deleting from a directory
 rmdir- deleting a directory
 cd- changes directory to the previous one
+ls -la ../boot- lists all files in the current and working directory
