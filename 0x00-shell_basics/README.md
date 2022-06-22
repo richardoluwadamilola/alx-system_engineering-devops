@@ -6,3 +6,4 @@ ls -la -displays current directory contents including hidden files
 ls -lan -displays in long format, numerical and hidden files
 mkdir- making a directory in /tmp
 mv-moving from one directory to another
+rm- deleting from a directory
