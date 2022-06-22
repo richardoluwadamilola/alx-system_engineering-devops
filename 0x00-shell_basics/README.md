@@ -13,3 +13,4 @@ ls -la ../boot- lists all files in the current and working directory
 prints type of file
 create a symbolic link
 copy html files
+movings files that begins with uppercase
