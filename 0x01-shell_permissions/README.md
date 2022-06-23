@@ -11,3 +11,4 @@
 10-write a script that sets the mode of te file hello the same as olleh's mode
 11-create a script that adds execute permission to all subdirectories of thr current directotry for all
 12-create a script that creates a directory with permissions 751 in the working directory
+13-write a script that changes the group owner to school for the file hello
