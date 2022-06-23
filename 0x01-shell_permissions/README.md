@@ -9,3 +9,4 @@
 8-write a script that gives all permission to other users, no permission for the owner or group 
 9-write a script that set the moode of the file hello
 10-write a script that sets the mode of te file hello the same as olleh's mode
+11-create a script that adds execute permission to all subdirectories of thr current directotry for all
