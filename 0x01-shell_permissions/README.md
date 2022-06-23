@@ -8,3 +8,4 @@
 7- write a script that adds exception permission to the owner,the group owner and the other users to the file hello
 8-write a script that gives all permission to other users, no permission for the owner or group 
 9-write a script that set the moode of the file hello
+10-write a script that sets the mode of te file hello the same as olleh's mode
