@@ -17,4 +17,4 @@ movings files that begins with uppercase
 clean emacs
 tree
 commas
-magic file type: School
+magic file
