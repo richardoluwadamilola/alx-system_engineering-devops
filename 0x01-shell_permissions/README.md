@@ -6,3 +6,4 @@
 5-write a script that adds execute perission to the owner of the file hello
 6-write a script that adds execute permission to the owner and the group owner, and read permission to other users
 7- write a script that adds exception permission to the owner,the group owner and the other users to the file hello
+8-write a script that gives all permission to other users, no permission for the owner or group 
