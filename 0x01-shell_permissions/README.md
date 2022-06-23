@@ -14,3 +14,4 @@
 13-write a script that changes the group owner to school for the file hello
 14-write a script that changes the owner to vincent and the group to staff for all files and directories in the working directory
 15-write a script that changes the owner and the group of _hello to vincent and staff respectively
+16-write a script that changes the owner of the file hello to betty only if it is owned by user guillaume
