@@ -12,3 +12,4 @@
 11-create a script that adds execute permission to all subdirectories of thr current directotry for all
 12-create a script that creates a directory with permissions 751 in the working directory
 13-write a script that changes the group owner to school for the file hello
+14-write a script that changes the owner to vincent and the group to staff for all files and directories in the working directory
