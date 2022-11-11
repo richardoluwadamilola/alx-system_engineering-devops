@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
+<<<<<<< HEAD
 # prints the message infinity and beyond indefinitely
+=======
+# prints the message infinity and beyon for
+# eternity unless it is killed, not so ethernal after all :)
+>>>>>>> f650caad40dba6eb2f344449761f9d7d9337c395
 
 while true;
 do
