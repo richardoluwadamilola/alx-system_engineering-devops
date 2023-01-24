@@ -39,7 +39,7 @@ frontend oluwatobyrichard.tech-http-frontend
         http-request set-header X-Forwarded-Proto http
         default_backend oluwatobyrichard.tech-backend
 
-frontend oluwatobyrichard.tech-http-frontend
+frontend oluwatobyrichard.tech-https-frontend
         bind *:443 ssl crt /etc/ssl/oluwatobyrichard.tech/oluwatobyrichard.tech.pem
         http-request set-header X-Forwarded-Proto http
         default_backend oluwatobyrichard.tech-backend
